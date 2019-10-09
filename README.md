@@ -1,2 +1,2 @@
-# bootstrap_p1
-a practice of bootstrap
+# canvas_demo
+a countdown demo which uses canvas
